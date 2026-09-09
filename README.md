@@ -4,7 +4,8 @@ week 1 lesson and lab for Red Hat Linux exam
 
 
 
-Absolutely. I remember where we left off: you had worked through navigation, redirection (`>` vs. `>>`), `diff`, and the Week 1 final-lab directory structure. I couldn’t recover the exact original Week 1 message verbatim, but I can reconstruct the lesson from the material and exercises we used.
+
+
 
 # RHCSA Week 1 — Linux Command-Line Foundations
 
